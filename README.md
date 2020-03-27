@@ -4,13 +4,10 @@ Awesome Quantization Paper lists with Codes.
 
 
 <h2>Quantization categories</h2>
-- Quantized weights + activation, during training and test (Traning aware Quantization)  
-
-  
-
-  - LSQ  
-  - QIL  
-  - LQ-Nets  
+- Quantized weight + activation, during test (Post training Quantization)  
+  - ZeroQ  
+  - OCS  
+  - ACIQ  
 
 
 
