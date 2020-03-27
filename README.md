@@ -26,7 +26,7 @@ Awesome Quantization Paper lists with Codes.
 |       OCS       | [Improving Neural Network Quantization without Retraining using Outlier Channel Splitting](https://arxiv.org/abs/1901.09504) | ICML 2019  | [Official, Pytorch](https://github.com/cornell-zhang/dnn-quant-ocs) |   Post training   |
 |      ACIQ       | [Post-training 4-bit quantization of convolution networks for rapid-deployment](https://arxiv.org/abs/1810.05723) | NIPS 2019  | [Official, Pytorch\)](https://github.com/submission2019/cnn-quantization) |   Post training   |
 
-
+<br>
 
 - code reference: pytorch-quant  [github, Pytorch](https://github.com/wjc852456/pytorch-quant)
 
