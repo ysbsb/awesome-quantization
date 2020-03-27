@@ -17,6 +17,9 @@ Awesome Quantization Paper lists with Codes.
 
 
 <h2>Papers with codes</h2>
+
+
+
 | Quantize method |                            Tiitle                            | conference |                             code                             | Train / Inference |
 | :-------------: | :----------------------------------------------------------: | :--------: | :----------------------------------------------------------: | :---------------: |
 |       LSQ       | [Learned Step Size Quantization](https://arxiv.org/abs/1902.08153) | ICLR 2020  | [Unofficial, Pytorch](https://github.com/hustzxd/LSQuantization) |  Training aware   |
@@ -25,6 +28,10 @@ Awesome Quantization Paper lists with Codes.
 |      ZeroQ      | [ZeroQ: A Novel Zero Shot Quantization Framework](https://arxiv.org/abs/2001.00281) | CVPR 2020  |  [Official, Pytorch](https://github.com/amirgholami/ZeroQ)   |   Post training   |
 |       OCS       | [Improving Neural Network Quantization without Retraining using Outlier Channel Splitting](https://arxiv.org/abs/1901.09504) | ICML 2019  | [Official, Pytorch](https://github.com/cornell-zhang/dnn-quant-ocs) |   Post training   |
 |      ACIQ       | [Post-training 4-bit quantization of convolution networks for rapid-deployment](https://arxiv.org/abs/1810.05723) | NIPS 2019  | [Official, Pytorch\)](https://github.com/submission2019/cnn-quantization) |   Post training   |
+
+
+
+
 
 <br>
 
