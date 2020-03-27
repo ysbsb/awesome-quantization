@@ -26,12 +26,11 @@ Quantized weights + activation, during test, without data
 Quantize method 이름 / 논문 제목 / conference / paper / github / official, unofficial / pytorch, tensorflow
 
 ```
-|Quantize method|Title|conference|code|
+| Quantize method | Title | conference | code |
 |------|---|---|---|
-|Quantized weights + activation, during training and test (Training aware Quantization)|
-|LSQ|[Learned Step Size Quantization](https://arxiv.org/abs/1902.08153)|ICLR 2020|[Official, Tensorflow](https://github.com/microsoft/LQ-Nets)|
-|테스트1|테스트2|테스트3|테스트3|
-|테스트1|테스트2|테스트3|테스트3|
+| LSQ | [Learned Step Size Quantization](https://arxiv.org/abs/1902.08153) | ICLR 2020 | [Official, Tensorflow](https://github.com/microsoft/LQ-Nets) |
+| 테스트1 | 테스트2 | 테스트3 |테스트3 |
+| 테스트1 | 테스트2 | 테스트3 |테스트3 |
 ```
 
 
