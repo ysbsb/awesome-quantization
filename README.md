@@ -5,7 +5,6 @@ Awesome Quantization Paper lists with Codes.
 
 <h2>Quantization categories</h2>
 
-
 - Quantized weights + activation, during training and test (Training aware Quantization)  
   - LSQ  
   - QIL  
@@ -22,7 +21,6 @@ Awesome Quantization Paper lists with Codes.
 
 
 <h2>Papers with codes</h2>
-
 
 
 | Quantize method |                            Tiitle                            | conference |                             code                             | Train / Inference |
@@ -70,3 +68,12 @@ Awesome lists which is good for reference.
 - Awesome Deep Neural Network Compression  [[github]](https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression)
 
 <br>
+
+
+
+```
+# Author
+- Subin Yang
+- ysb8049@gmail.com
+```
+
